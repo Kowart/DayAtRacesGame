@@ -8,3 +8,13 @@ C:\Users\brdaka\Desktop\VisualStudio\DzienNaWyscigach\DzienNaWyscigach\obj\Debug
 C:\Users\brdaka\Desktop\VisualStudio\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.csproj.CoreCompileInputs.cache
 C:\Users\brdaka\Desktop\VisualStudio\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.exe
 C:\Users\brdaka\Desktop\VisualStudio\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.pdb
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\bin\Debug\DzienNaWyscigach.exe.config
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\bin\Debug\DzienNaWyscigach.exe
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\bin\Debug\DzienNaWyscigach.pdb
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.csprojAssemblyReference.cache
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.Form1.resources
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.Properties.Resources.resources
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.csproj.GenerateResource.cache
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.exe
+C:\Users\Artur\Projekty\DayAtRaces\DzienNaWyscigach\DzienNaWyscigach\obj\Debug\DzienNaWyscigach.pdb

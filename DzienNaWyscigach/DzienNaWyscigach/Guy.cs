@@ -20,7 +20,7 @@ namespace DzienNaWyscigach
             // Set my label to my bet’s description, and the label on my
 
             MyLabel.Text = MyBet.GetDescription();
-           // MyBet.GetDescription();
+            // MyBet.GetDescription();
 
             // radio button to show my cash ("Joe has 43 bucks")          
             MyRadioButton.Text = Name + " has " + Cash + " bucks";                      
